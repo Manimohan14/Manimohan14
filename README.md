@@ -30,7 +30,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 ### Working as a Freelancer in
 
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/manimohan517)
-[![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/Manimohan Thiriloganathan)
+[![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/ManimohanThiriloganathan)
 
 
 
